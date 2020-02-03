@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h932
 TARGET_OTA_ASSERT_DEVICE := v30,joan,h930,h932
 
 # Kernel
-TARGET_KERNEL_CONFIG := carbon_h932_defconfig
+TARGET_KERNEL_CONFIG := joan_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/h932/BoardConfigVendor.mk
