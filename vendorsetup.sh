@@ -1,1 +1,3 @@
-add_lunch_combo lineage_h932-userdebug
+add_lunch_combo carbon_h932-eng
+add_lunch_combo carbon_h932-userdebug
+add_lunch_combo carbon_h932-user
